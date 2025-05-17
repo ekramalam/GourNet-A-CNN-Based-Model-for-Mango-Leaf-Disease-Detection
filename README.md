@@ -1,0 +1,1 @@
+# GourNet-A-CNN-Based-Model-for-Mango-Leaf-Disease-Detection
